@@ -1,4 +1,4 @@
-import { Footer, Navbar } from '../Components';
+import { Footer, Navbar } from '../Components/Index.js';
 import { About, Explore, Feedback, GetStarted, Hero, Insights, WhatsNew, World } from '../Sections/Index.js';
 
 const Home = () => (

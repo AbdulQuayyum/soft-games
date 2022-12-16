@@ -2,7 +2,7 @@
 
 import { motion } from "framer-motion";
 
-import Styles from "../../Styles/Index";
+import Styles from "../../Styles/Index.js";
 import { fadeIn } from "../../Utilities/Motion/Motion";
 
 const ExploreCard = ({ id, imgUrl, title, index, active, handleClick }) => (

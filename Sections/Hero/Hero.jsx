@@ -2,7 +2,7 @@
 
 import { motion } from "framer-motion";
 
-import Styles from "../../Styles/Index";
+import Styles from "../../Styles/Index.js";
 import { slideIn, staggerContainer, textVariant } from "../../Utilities/Motion/Motion";
 
 const Hero = () => (

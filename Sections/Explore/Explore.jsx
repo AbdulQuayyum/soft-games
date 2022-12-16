@@ -3,10 +3,10 @@
 import { useState } from "react";
 import { motion } from "framer-motion";
 
-import Styles from "../../Styles/Index";
+import Styles from "../../Styles/Index.js";
 import { exploreWorlds } from "../../Constants/Index"
 import { staggerContainer } from "../../Utilities/Motion/Motion";
-import { ExploreCard, TitleText, TypingText } from "../../Components";
+import { ExploreCard, TitleText, TypingText } from "../../Components/Index.js";
 
 const Explore = () => {
   const [active, setActive] = useState('world-2');

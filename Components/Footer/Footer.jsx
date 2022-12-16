@@ -3,7 +3,7 @@
 import { motion } from "framer-motion";
 import { socials } from "../../Constants/Index";
 
-import Styles from "../../Styles/Index";
+import Styles from "../../Styles/Index.js";
 import { footerVariants } from "../../Utilities/Motion/Motion";
 
 const Footer = () => (
