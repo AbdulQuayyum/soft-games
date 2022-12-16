@@ -3,7 +3,7 @@
 import { motion } from 'framer-motion';
 import { TypingText } from '../../Components/CustomTexts/CustomTexts.jsx';
 
-import Styles from '../../Styles/Index.js';
+import Styles from '../../Styles/Index';
 import { fadeIn, staggerContainer } from '../../Utilities/Motion/Motion.js';
 
 const About = () => (

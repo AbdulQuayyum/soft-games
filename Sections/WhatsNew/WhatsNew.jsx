@@ -2,7 +2,7 @@
 
 import { motion } from 'framer-motion';
 
-import Styles from '../../Styles/Index.js';
+import Styles from '../../Styles/Index';
 import { newFeatures } from '../../Constants/Index';
 import { NewFeatures, TitleText, TypingText } from "../../Components/Index"
 import { planetVariants, staggerContainer, fadeIn } from "../../Utilities/Motion/Motion";

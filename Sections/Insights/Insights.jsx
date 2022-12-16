@@ -2,7 +2,7 @@
 
 import { motion } from 'framer-motion';
 
-import Styles from '../../Styles/Index.js';
+import Styles from '../../Styles/Index';
 import { insights } from '../../Constants/Index';
 import { staggerContainer } from "../../Utilities/Motion/Motion";
 import { InsightCard, TitleText, TypingText } from "../../Components/Index.js";
