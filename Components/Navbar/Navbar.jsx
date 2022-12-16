@@ -2,7 +2,7 @@
 
 import { motion } from "framer-motion";
 
-import Styles from "../../Styles/Index.js";
+import Styles from "../../Styles/Index";
 import { navVariants } from "../../Utilities/Motion/Motion";
 
 const Navbar = () => (

@@ -3,7 +3,7 @@
 import { useState } from "react";
 import { motion } from "framer-motion";
 
-import Styles from "../../Styles/Index.js";
+import Styles from "../../Styles/Index";
 import { startingFeatures } from "../../Constants/Index"
 import { staggerContainer, fadeIn, planetVariants } from "../../Utilities/Motion/Motion";
 import { StartSteps, TitleText, TypingText } from "../../Components/Index.js";
