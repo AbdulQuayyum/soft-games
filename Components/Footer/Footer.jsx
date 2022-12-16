@@ -16,7 +16,7 @@ const Footer = () => (
     <div className="footer-gradient" />
     <div className={`${Styles.innerWidth} mx-auto flex flex-col gap-8`}>
       <div className="flex flex-wrap items-center justify-between gap-5">
-        <h4 className="font-bold md:text-[56px] text-[44px] text-white">
+        <h4 className="font-bold md:text-[52px] text-[40px] text-white">
           Soft-Games
         </h4>
         <button type="button" className="flex items-center h-fit py-4 px-6 bg-[#25618B] rounded-[32px] gap-[12px]">

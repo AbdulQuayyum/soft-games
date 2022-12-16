@@ -50,15 +50,15 @@ export const exploreWorlds = [
   export const newFeatures = [
     {
       imgUrl: '/vrpano.svg',
-      title: 'A new world',
+      title: 'A new game',
       subtitle:
-          'we have the latest update with new world for you to try never mind',
+          'we have the latest update with new games for you to try never mind',
     },
     {
       imgUrl: '/headset.svg',
       title: 'More realistic',
       subtitle:
-          'In the latest update, your eyes are narrow, making the world more realistic than ever',
+          'In the latest update, the sensory clothing would make the experience more realistic',
     },
   ];
   
