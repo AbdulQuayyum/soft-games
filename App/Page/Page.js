@@ -1,5 +1,5 @@
 import { Footer, Navbar } from '../Components/Index.js';
-import { About, Explore, Feedback, GetStarted, Hero, Insights, WhatsNew, World } from '../Sections';
+import { About, Explore, Feedback, GetStarted, Hero, Insights, WhatsNew, World } from '../Sections/Index.js';
 
 const Page = () => (
   <div className="overflow-hidden bg-primary-black">
