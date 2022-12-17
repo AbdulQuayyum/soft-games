@@ -1,4 +1,4 @@
-import '../styles/globals.css';
+import "../../Styles/globals.css";
 
 const RootLayout = ({ children }) => (
   <html lang="en">
